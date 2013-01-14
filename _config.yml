@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://dcollazo.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Octopress
+subtitle:
+author: David Collazo
 simple_search: http://google.com/search
 description:
 
